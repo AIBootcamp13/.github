@@ -1,4 +1,4 @@
-# Upstage AI Lab 6기
+# AI 부트캠프 13기
 
 ![image](https://github.com/user-attachments/assets/03a34d0a-99b3-47ee-a2eb-7a3277545bfb)
 
