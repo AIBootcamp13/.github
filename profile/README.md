@@ -15,17 +15,17 @@
 #### Done
 - **[FastCampus]** Python
 - **[FastCampus]** Statistic
-
-#### Ing
 - **[FastCampus]** Computer Science
-
-#### Upcoming
-- **[FastCampus]** Git
+  - **[FastCampus]** Git
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
 - **[Upstage]** ML & MLOps
 - **[Upstage]** Deep Learning
+
+#### Ing
 - **[Upstage]** Pytorch
+
+#### Upcoming
 - **[Upstage]** Computer Vision Basic
 - **[Upstage]** Computer Vision Advanced
 - **[Upstage]** Computer Vision Generation
