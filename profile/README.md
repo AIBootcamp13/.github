@@ -16,7 +16,7 @@
 - **[FastCampus]** Python
 - **[FastCampus]** Statistic
 - **[FastCampus]** Computer Science
-  - **[FastCampus]** Git
+- **[FastCampus]** Git
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
 - **[Upstage]** ML & MLOps
